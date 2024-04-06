@@ -1,0 +1,12 @@
+Gender,Stream,Subject,Marks,Course
+Male,Science,Chemistry,85,Biology
+Female,Arts,History,78,Civics
+Male,Commerce,Finance,92,Economics
+Female,Science,Physics,68,Mathematics
+Male,Arts,Literature,80,Language
+Female,Commerce,Management,75,Marketing
+Male,Science,Biology,90,Chemistry
+Female,Arts,History,82,Civics
+Male,Commerce,Finance,88,Economics
+Female,Science,Physics,72,Mathematics
+Male,Arts,History,68,Civics
