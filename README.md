@@ -1,20 +1,20 @@
 ## Overview
 
-This repository contains the codebase for a web application built with Next.js for the frontend, Python for the backend, and Streamlit for data visualization.
+This repository is home to the codebase for an innovative web application designed to transform data analysis through dynamic visualization and intelligent model-based suggestions. The application is structured into three main components, each housed in its own sub-repository:
 
 ## Sub-repositories
 
-### 1. Frontend
+### 1. Frontend (Next.js)
 
-The frontend of the application is developed using Next.js, a React framework. It includes components, pages, and stylesheets necessary for building the user interface.
+Developed with Next.js, the frontend features an advanced dashboard that dynamically generates a variety of graphs based on user requirements. This is achieved through a seamless integration with the backend machine learning model, which provides recommendations on the most effective visualization techniques for different datasets. The frontend is responsible for presenting these insights through a user-friendly interface, incorporating components, pages, and styles that enable intuitive interaction and exploration.
 
-### 2. Backend
+### 2. Backend (Python with Random Forest Algorithm)
 
-The backend of the application is developed using Python. It includes server-side logic, APIs, database interactions, and other functionalities required for processing client requests and managing data.
+At the core of the backend is a machine learning model powered by the Random Forest algorithm. This model analyzes incoming datasets to suggest the most appropriate chart types for data visualization, enhancing the decision-making process. The backend is built using Python and handles server-side logic, API management, database interactions, and the execution of the machine learning model. It plays a critical role in processing client requests, managing data flow, and generating actionable insights for the frontend.
 
-### 3. Streamlit
+### 3. Streamlit (Python for Data Visualization)
 
-The Streamlit sub-repository contains scripts and files related to data visualization and exploration. Streamlit is used for creating interactive data apps with Python, allowing for easy and intuitive data analysis.
+The Streamlit sub-repository is dedicated to data visualization and exploration, leveraging Python to create interactive data applications. It complements the frontend by providing an alternative platform for visualizing data insights, making it easier for users to analyze and interpret their data. Streamlit's intuitive framework enables the rapid development of data applications that can interact with the machine learning model for enhanced analytical capabilities.
 
 1. Clone this repository:
 
@@ -41,8 +41,7 @@ The Streamlit sub-repository contains scripts and files related to data visualiz
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md.
-
+Contributions are welcome!
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
